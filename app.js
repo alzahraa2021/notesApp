@@ -163,7 +163,7 @@ yargs.command({
 
 yargs.command({
     command:'read',
-    describe:'Read note',
+    describe:'Read noteeeeeeeee',
     builder:{
         title:{
             describe:'This is title desc in read command',
